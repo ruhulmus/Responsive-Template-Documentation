@@ -1,9 +1,8 @@
 # Responsive-Template-Documentation
 
-COMING SOON UNDER CONSTRUCTION RESPONSIVE TEMPLATE ![view](https://github.com/ruhulmus/Bootstrap-Coming-Soon-underconstruction-responsive-Template/blob/main/preview.png)
+Bootstrap/ Html5 Responsive Template Documentation
 
-
-
+Responsive Template Documentation ![view](https://github.com/ruhulmus/Responsive-Template-Documentation/blob/main/template-documentation.png)
 
 # 12+ Different Theme Style
 * Full Screen Image Background
